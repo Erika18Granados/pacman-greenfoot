@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PacMan
+comment0.text=\r\n\ Main\ pac-man\ class\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PacMan()
+comment1.text=CONSTRUCTOR\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ PacMan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=keyPressed
+comment3.target=void\ movePacman(java.lang.String)
+comment3.text=Method\ to\ move\ the\ PacMan\ based\ on\ the\ last\ key\ pressed\ *
+comment4.params=
+comment4.target=void\ checkCollisions()
+comment4.text=Method\ to\ check\ if\ PacMan\ is\ collisioning\ with\ an\ object\ *
+numComments=5
